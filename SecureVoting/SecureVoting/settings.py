@@ -135,5 +135,5 @@ EMAIL_PORT = 465
 EMAIL_USE_TLS = False
 EMAIL_USE_SSL = True  
 EMAIL_HOST_USER = 'yashbhingarde21@gmail.com'
-EMAIL_HOST_PASSWORD = 'qmrwfiiajjxfysox'
+EMAIL_HOST_PASSWORD = 'cdjkyuurwsidycvn'
 DEFAULT_FROM_EMAIL = 'yashbhingarde21@gmail.com'
